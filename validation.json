@@ -1,0 +1,35 @@
+{
+  "snapshot_date": "2026-11-18",
+  "unified_configurations": 26,
+  "unified_runs": 130,
+  "repetitions_per_configuration": 5,
+  "median_fields_checked": [
+    "recovery_seconds",
+    "organization_seconds",
+    "verification_seconds",
+    "pipeline_seconds",
+    "peak_memory_mb"
+  ],
+  "ablation_runs": 32,
+  "ablation_verified_by_mode": {
+    "without_reconstruction": 8,
+    "full": 8,
+    "without_provenance": 4,
+    "without_binding": 0
+  },
+  "hardware_launches": 334,
+  "hardware_scalar_comparisons": 195084,
+  "mutation_cases": 20,
+  "mutation_results": {
+    "Mismatch": 19,
+    "Verified": 1
+  },
+  "functional_path_attempts": 66,
+  "functional_verified": 61,
+  "functional_infeasible": 5,
+  "normalization_counts": {
+    "host_path_removed": 72,
+    "absolute_to_archive_relative": 77
+  },
+  "new_gpu_experiments": 0
+}

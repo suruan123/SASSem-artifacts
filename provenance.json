@@ -1,0 +1,471 @@
+[
+  {
+    "archive_relative_source": "experiments/sync_reconvergence_20261012/out/uniform/registration.json",
+    "shared_file": "records/experiments/sync_reconvergence_20261012/out/uniform/registration.json",
+    "original_sha256": "91c0c886d522ca9fbc128a8848d29806a4921b0fb5393f1f2417e37c56b1417f",
+    "shared_sha256": "477bd2afd0f97e3e64c8178b357819fb635889025f641067e808f7bd20c80d8a",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/sync_reconvergence_20261012/out/uniform/rows.json",
+    "shared_file": "records/experiments/sync_reconvergence_20261012/out/uniform/rows.json",
+    "original_sha256": "bd49ff0fd332cb5abe21c96dfa79d189cfde87363b97a4fce1403853cf2a5c1b",
+    "shared_sha256": "3b99fd10e8abf4a9ccc7a953022a061a79d93bbdcdd217328572acd1ac82ba47",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/sync_reconvergence_20261012/out/uniform/summary.json",
+    "shared_file": "records/experiments/sync_reconvergence_20261012/out/uniform/summary.json",
+    "original_sha256": "ebd6c187bd60411ad038e96615c271874becba807ff94287902b36800f083842",
+    "shared_sha256": "b12c97f715da7c73eec01c33823976acbaffe3605baf86a73b8be777202c07a9",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/sync_reconvergence_20261012/out/uniform/reconstruction_metrics.json",
+    "shared_file": "records/experiments/sync_reconvergence_20261012/out/uniform/reconstruction_metrics.json",
+    "original_sha256": "ce3c1cf3ce7bc33599d5073a489223ee345511b7124da871f723ad7c6916a508",
+    "shared_sha256": "4a3b35af0b179a90d2184d90a1eb9a99daccc0df1d51f7d92a50990dc85eb758",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/sync_reconvergence_20261012/out/functional_1791785640686331600/rows.json",
+    "shared_file": "records/experiments/sync_reconvergence_20261012/out/functional_1791785640686331600/rows.json",
+    "original_sha256": "35d559ca15ce3edd124f66d9ffa4565f3b484efec3f11785a6ccf9f1ec145395",
+    "shared_sha256": "6ce51f8b988fa5844c8f17f2da4175c1fe5596aff15df868415334abdfeabb63",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/sync_reconvergence_20261012/out/functional_1791785640686331600/summary.json",
+    "shared_file": "records/experiments/sync_reconvergence_20261012/out/functional_1791785640686331600/summary.json",
+    "original_sha256": "0596515bde7d8377db65f4773f89086f9beca7a12841e56d0c1f7808c7d1652f",
+    "shared_sha256": "1221f96d871785bc1d25c06d79554b0fd037fcc5159b3b775cb3af1cb551a00b",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/summary.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/summary.json",
+    "original_sha256": "507781d010d468e07fcbc82907e1d20707adebce5fc665664b01e15cce7c0158",
+    "shared_sha256": "75b2fa63855bf665b7fd5be328438e1bfd34cf90c664526f1fd6b54f9cbda340",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/rows.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/rows.json",
+    "original_sha256": "327dbf8f2347257416258d79cb505a9e4e446fe5c87aa3f315ae56bc8f681419",
+    "shared_sha256": "34706312e474270e038263b8b0623692722b4e16dc5abfa28f3ef6e485636b84",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/residual_64/full/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/residual_64/full/result.json",
+    "original_sha256": "bf4e3dec15e922e9181e73c746c1dfe3f884246d526fa25b81ef0bc5c1b76720",
+    "shared_sha256": "91b829547210a6c2fdd0d75c63c0f6fa1f6eac8b0a09d3d03cae4aab9fc9dae6",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/residual_64/without_reconstruction/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/residual_64/without_reconstruction/result.json",
+    "original_sha256": "29e701e374a6a483b49af7e7dec15e4dc1d6bfc9530987fc648424a9ee6e2736",
+    "shared_sha256": "494a54ff2bf1a3f5dca5258650d14331288b3fd91ff558b06f14c5279ff900aa",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/reduce3_64/full/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/reduce3_64/full/result.json",
+    "original_sha256": "055a37752e6213ade8cdcf63f905bc62b6c49deadf4db08c9438bf0257f3b6ae",
+    "shared_sha256": "724b3f0edd0bc3888b03f1ab64fd771e736f24f4b16b26a775311a7d20c6d8c9",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/reduce3_64/without_reconstruction/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/reduce3_64/without_reconstruction/result.json",
+    "original_sha256": "cf48e129a623c8c15243f755868528b7d2e116b0bd0255ad187e6db9a451cb1f",
+    "shared_sha256": "f5c218e7b71f416b41fec6d1691f68d7e87262e98be1a20bbea887881426a795",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/ext_mean_32/full/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/ext_mean_32/full/result.json",
+    "original_sha256": "e3dca795fafbf0637dedd4d3faa5813fe7a24680988b1f49543d73e423cb0577",
+    "shared_sha256": "71e4a086c99b46724ac3dd64b40dab9c6ba57158c05a916ce7e66163a40407fc",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/ext_mean_32/without_reconstruction/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/ext_mean_32/without_reconstruction/result.json",
+    "original_sha256": "4758ac2e4c1b1f6b8efbd5fc45c1c395df15e9ca0abb50e72e7b0908858e3fb2",
+    "shared_sha256": "87180936ebd4c251dc5fc4582cfa15e7748f0b9b12eb26cbe527c0a57914bc64",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_naive_k16/full/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_naive_k16/full/result.json",
+    "original_sha256": "67873911661d70b521857215e692e6d073672c6cc82b7776668941116893598f",
+    "shared_sha256": "6ac19c89d9f78324edb566ba720f23b9167f488430c958310e63d0d64a745c3a",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_naive_k16/without_reconstruction/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_naive_k16/without_reconstruction/result.json",
+    "original_sha256": "ad73ef42f9f8e7575f5d4156635e245e1d101665caecb10ea16d449fc9702b57",
+    "shared_sha256": "071d3b6dc3e8f8b83846e43ea16ee92f09215bbfa8e4722a14581c402c1aa2ff",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_tiled_k16/full/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_tiled_k16/full/result.json",
+    "original_sha256": "f1bd56ab3891a686d5bd0228f7d0aac9fb3e7ec3f9fe0f64b5b76c1f8418b342",
+    "shared_sha256": "58aa47d02b9712d509ee0ba952933119e75ae9f0f0c40d6d93cfced2ec03c56c",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_tiled_k16/without_reconstruction/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/gemm_tiled_k16/without_reconstruction/result.json",
+    "original_sha256": "0a9f5f2ce753ff4ab2e031b2e2d67231b4fc52c8fac004661a42a9830d6d0ae6",
+    "shared_sha256": "e0959153554cb75ec29b7d54165e8b578051cedc8b1291b3ffa2d33713aacc6c",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/fa_32/full/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/fa_32/full/result.json",
+    "original_sha256": "bb44a3ce8b98fc1533f6b2e6a9f01e9f081a4dd172d9c567f23c8d23899aa3e7",
+    "shared_sha256": "576ceca3b59894b7b2597ce754696e3a5e4f38735ded8a067ccef0693db614dd",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/fa_32/without_reconstruction/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/fa_32/without_reconstruction/result.json",
+    "original_sha256": "48d2287c16ba873c338cb67a314f2ebadbe432662894355b54a003b18272541e",
+    "shared_sha256": "7e972ac4f8a49edb82a4c6de78a56a9abe319051b6978077adb604179c82dcc2",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/conv_4/full/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/conv_4/full/result.json",
+    "original_sha256": "6df0d68f3fd0c19b983b23864b5d17cc74a9361291481a5088a86cb6c79b9aac",
+    "shared_sha256": "ea3b20e8a65c86ecfd2ee9c5b9b37859c58e0b2807c621fea733d41a80e83966",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/latest_ablation_checked/conv_4/without_reconstruction/result.json",
+    "shared_file": "records/artifacts/experiment_audit_20261014/latest_ablation_checked/conv_4/without_reconstruction/result.json",
+    "original_sha256": "dd9c7124a5bf6d83657307c6175dcb89090c35e5e353ea63861e7c0a75a413d0",
+    "shared_sha256": "faf17d47dce13cc62e4b53e82f62bbe93a68a5e8880e987604fe5f972d44bdd3",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/paper_completion/out/gpu_tablex/gpu_results.json",
+    "shared_file": "records/experiments/paper_completion/out/gpu_tablex/gpu_results.json",
+    "original_sha256": "584242206748d4e6abf43f83dde53a9b6075794753ff0c996281b83292d13e82",
+    "shared_sha256": "f617da0b249e7c81853d631adba19123a2a4d99cf8cd3e7b4782d02dd167a130",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/review_20260920/attention_followup/runs/20260920_110532/results.json",
+    "shared_file": "records/experiments/review_20260920/attention_followup/runs/20260920_110532/results.json",
+    "original_sha256": "aa5e146baf9b88d88f36e4568faf64d9fd5eb3a375719a443e25b96cf57a3422",
+    "shared_sha256": "d80dc60644af685d7bcd8568549d453d722d1f664ff954e494d0f72017af6f64",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/paper_strengthening_20261003/revision_lds64/out/hardware_summary.json",
+    "shared_file": "records/experiments/paper_strengthening_20261003/revision_lds64/out/hardware_summary.json",
+    "original_sha256": "f93eb4810bf640f7574e8a1fda9fbc9098fcc690fdc3727bfa620238288933a3",
+    "shared_sha256": "c09a8b756ee21517814b2142501a802dd16421dc16fcc107859e26e9ba62eb02",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/paper_strengthening_20261003/evidence_closure/out/hardware_summary.json",
+    "shared_file": "records/experiments/paper_strengthening_20261003/evidence_closure/out/hardware_summary.json",
+    "original_sha256": "fb6cfbe15d54c95ba8192c491a9a52a8f626454c857948e3689a54c11b706aed",
+    "shared_sha256": "271efb597df54d21107ffb869b6ecb0e63d5b0fad6fe241b2e5ed6b678adf824",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/paper_gap_closure_20261004/out/hardware/20261004_051615_497100/downloaded/gpu_results/rows.json",
+    "shared_file": "records/experiments/paper_gap_closure_20261004/out/hardware/20261004_051615_497100/downloaded/gpu_results/rows.json",
+    "original_sha256": "8c591ea2ca9ed5b3473c166c3cdbaa6b944bf9d1aef867449c213dd569dfa728",
+    "shared_sha256": "424f49a063343c007ae5ed2294d0fefe26ef69613cad0fee5f31089311c71962",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/semantic_extension_20261008/out/summary.json",
+    "shared_file": "records/experiments/semantic_extension_20261008/out/summary.json",
+    "original_sha256": "88936910375835c0d64ad4e6fd7e9d7ac37cecc68716fad8d63774f3cebdffbd",
+    "shared_sha256": "c29dfda723f182a0310b11c21cd08d6557a23199ee2b96fea64c1e606cde1631",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/current_layernorm_payload/reuse_check.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/current_layernorm_payload/reuse_check.json",
+    "original_sha256": "cdf83c2576b66b40c3e6ebc62c5c1a734dcfc1c0119717cc74db9b4d076ab54b",
+    "shared_sha256": "422e4330357d9075da4d3cfd464011ece2cc0811305bea55374d83b7a11baca0",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/external_tensorcore_20261009/out/final_report.json",
+    "shared_file": "records/experiments/external_tensorcore_20261009/out/final_report.json",
+    "original_sha256": "8d6203f860a3c3d9b3772d18df3915a38e8aa5b535f4ec5403922c4ee86d9d55",
+    "shared_sha256": "8696c339e4721469a7145a213de1bd2e84dc2577e298024aa4985d976bac6582",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/tensorcore_replay_20261009/out/final_report.json",
+    "shared_file": "records/experiments/tensorcore_replay_20261009/out/final_report.json",
+    "original_sha256": "ddeb9e972900842c619013c4ee0f9c1cb27c465aa5438a26350855aecdf8b7af",
+    "shared_sha256": "d9a54029925b4cd9c105af18d91d2fe0c213179b139265b5874bab9a1f0ffa0f",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/scaling_closure_20261010/out/final_results.json",
+    "shared_file": "records/experiments/scaling_closure_20261010/out/final_results.json",
+    "original_sha256": "5de32d56b5c665cd439fe5358a1d38ba9822bf788746cb5830b42b56a3c7823c",
+    "shared_sha256": "3828795998a59a0552c6a38273be6b41c0ed81a72bd7c35ba6fc02fe6005d550",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/tensorcore_live_tile_20261013/out/hardware_replay_summary.json",
+    "shared_file": "records/experiments/tensorcore_live_tile_20261013/out/hardware_replay_summary.json",
+    "original_sha256": "933627d5a1937aea9644a11524e7aee947cff11b15f2208118aeb3de4850d907",
+    "shared_sha256": "814abb9cdfed8e1a3a3ebb6320c572cf971d017fefa0e9f285520aa5cb0b4147",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/review_followup_20261003/runs/server_20261003/gpu_run/summary.json",
+    "shared_file": "records/experiments/review_followup_20261003/runs/server_20261003/gpu_run/summary.json",
+    "original_sha256": "1becadc3de67bcaddb8a773eec7656e799ea219ad5eb839d79769cd9b2e7f0aa",
+    "shared_sha256": "714c59972c63899bb177cc2d2b5210081f704176a816a9fdcb4955e9a9cc5167",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/tensorcore_live_tile_20261013/outer/grid_transfer/out/1791924572100753700/verification.json",
+    "shared_file": "records/experiments/tensorcore_live_tile_20261013/outer/grid_transfer/out/1791924572100753700/verification.json",
+    "original_sha256": "67a973b92cb81f685e6b3ffab61b9e46c372da8ae5f0c847f1d2ac3484e08a10",
+    "shared_sha256": "80cb74d386a4f324a20a08a5488fa72a401b7ce218b3d84a6d353fad9a3afa96",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/ptx_availability_audit/expansion/summary.json",
+    "shared_file": "records/experiments/ptx_availability_audit/expansion/summary.json",
+    "original_sha256": "aadb61c9761f7c9dd1f4df6ccb5358b46862e579b518d6b78b57199c395f91b7",
+    "shared_sha256": "665a563beccef8ac626d17c7950ad0c4e16836afb53f5effa3459dd60356ecbf",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/latest.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/latest.json",
+    "original_sha256": "dee8effc4b6737102f45be67a12c26350053333292f6d0cdffde00e20b1ed8f5",
+    "shared_sha256": "e91d4e716e73b36704d88b8446203e57e878f32963146bd2451aeff437080790",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutation_summary.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutation_summary.json",
+    "original_sha256": "1db16a86666531c029bb054a0e091ee23a137ce541b43ee23b94457a76061f73",
+    "shared_sha256": "915447d85ddc300630568b3cf35274cb16f0f90f012cd1c9ee7e0536d4b5b2d5",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/paper_completion/out/faults/results.json",
+    "shared_file": "records/experiments/paper_completion/out/faults/results.json",
+    "original_sha256": "ce599e40655f38e0c014d0e764e17ed90ee0009a453701d907712ea3d0d05bf4",
+    "shared_sha256": "cf0496184385807a344b3ca3e8937e1ed1c8e17801e8f35c078124771156169c",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/paper_completion/out/source_faults/results.json",
+    "shared_file": "records/experiments/paper_completion/out/source_faults/results.json",
+    "original_sha256": "ba7dddb04241b0aae840ba69dd35e5c2ac9589624bfc3f04d56d654ee132eb7e",
+    "shared_sha256": "227fd66fb52224c9dc795fc2d6ab77f7cee68d51f34e1cdc718a2d8add1b966e",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/paper_completion/out/communication_faults/results.json",
+    "shared_file": "records/experiments/paper_completion/out/communication_faults/results.json",
+    "original_sha256": "34dfcd118399001bbdb93d788ca4d51c519588d81f81445f1f8264f6fdd791da",
+    "shared_sha256": "43e16b9fce0b4569caf6556b327be90330c65aa4cbb94e1c591e7985d0692016",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/attention_1_normalization_denominator/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/attention_1_normalization_denominator/sassem_result.json",
+    "original_sha256": "53828707e1052786d7abda765c4ad8b614c862cc5e826d465137d26b620b1467",
+    "shared_sha256": "baa4721ff46afcd1552e8c3540e1ca53f7542fd3171cfa7fbd49bc0d0216a3ce",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/attention_2_loop_predicate/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/attention_2_loop_predicate/sassem_result.json",
+    "original_sha256": "0bb0dc3feee772feb9b1f8e5772bd04cebba71dd5ce6631e3e78d2a407cf0c9b",
+    "shared_sha256": "8353559af465ec98ae80975635221d3f9d529e5a9edab47801c673470d2b02ab",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B10_gemm_tiled_shared_offset_0x120/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B10_gemm_tiled_shared_offset_0x120/sassem_result.json",
+    "original_sha256": "c5f7d2833b6db14ccca7386a36eef228d1268e50fb642065c912d010481fcb55",
+    "shared_sha256": "a012f7a99223fab350adddc1a8a6940f1da4f0388d69022f559380e7fc94ff98",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B11_gemm_tiled_shared_offset_0x140/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B11_gemm_tiled_shared_offset_0x140/sassem_result.json",
+    "original_sha256": "f25e25416d21c372f9a0a1160e0ea0d7257319dfd71c4ecf65932d710f14863f",
+    "shared_sha256": "c10778bfbbab2a75453df5565ab123eab6b01c885a0d7e264bcdd81e8f0edc31",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B12_reduce_tree_last_term_dup/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B12_reduce_tree_last_term_dup/sassem_result.json",
+    "original_sha256": "5d5c4f2b325b3aaa99d87e045c67eb30c9ff87432534ac121d195b4bc3ae2606",
+    "shared_sha256": "a1d7692145b8c2504e868f247a32e96a5345b7491170584eb2d0fbd9a7ee9644",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B13_reduce_tree_skip_level/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B13_reduce_tree_skip_level/sassem_result.json",
+    "original_sha256": "f97f4361c635f026376fbd68a468076a397c4a3f57b9f1d2561c5d18f96fe529",
+    "shared_sha256": "be6f9858e73853ae40652627aefebfd08e9bf1bf10eb108fc8bd1c4c19dd6987",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B14_sum32_tree_drop_half/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B14_sum32_tree_drop_half/sassem_result.json",
+    "original_sha256": "29ac7ee901ec51ddd0d5df3edd34c6dfb535ba75e6fbd2f37b823f57ae6e26fd",
+    "shared_sha256": "d5a43e0f705efb36a6d93c2f401e943e8d22eb14c8e84a52738e5e830e34e97b",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B1_vectoradd_global_load_B_offset/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B1_vectoradd_global_load_B_offset/sassem_result.json",
+    "original_sha256": "80bf2793d0e38744b795706aba58d9d5bd24f8d5c5e21978cf557f3336e225c9",
+    "shared_sha256": "d10e867fbfea10f92b788061966c40becc78e7e492e919b9386a7cf699022a91",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B2_vectoradd_global_store_offset/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B2_vectoradd_global_store_offset/sassem_result.json",
+    "original_sha256": "de37a3ad2d6863b9027991adc001cbefcdfe2adc8ca2e3b532237fd32330da07",
+    "shared_sha256": "b3df89e51eefcd8803bda549dafe21574153cba2268fe5d31a2a48efd0ba19d5",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B3_gemm_naive_global_load_B_offset/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B3_gemm_naive_global_load_B_offset/sassem_result.json",
+    "original_sha256": "84d8be0b7cd933734b1c8d5617ba1ce5ab0a6a83cb6ed6d417e2095ab7d5d00b",
+    "shared_sha256": "8bde4684b7e35cb482ebececf9aceaddefd20936059e16b679835cc368f5503c",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B4_vectoradd_fadd_negate/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B4_vectoradd_fadd_negate/sassem_result.json",
+    "original_sha256": "5c7a0d4890d50a1daa08ad21791361eeeb56d3028eb3e391a6ab816573fc9af6",
+    "shared_sha256": "4db6018badb8ea6f30186fc3c54a40ff80d976a06108daac438645b014b0571b",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B5_gemm_naive_ffma_source/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B5_gemm_naive_ffma_source/sassem_result.json",
+    "original_sha256": "767a358b83521589b9f28dca07886acfafd69bda71e02785936ac5381629fe0d",
+    "shared_sha256": "d3e890a4faa47a5a5b31b0692f8dd4bb9e7f3040d3583b9bb88a8a55fcabbf13",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B6_gemm_tiled_ffma_source/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B6_gemm_tiled_ffma_source/sassem_result.json",
+    "original_sha256": "b3ab62771d28038e7c14693ed8f2ea19a2ea88eb6cfd0cfc9f32e40ed3ef57c1",
+    "shared_sha256": "fbbb38ff492cd0ab4e938630dac83ee1e1a6d960b469111db93d4416e99574ae",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B7_reduce_shuffle_delta2/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B7_reduce_shuffle_delta2/sassem_result.json",
+    "original_sha256": "e62146771fc2e8944ca50e94b47ff0e57d25697b8797e129336d480a7e4c732d",
+    "shared_sha256": "648c02a798cd19550abce54d1c2e54cabc1e23cdb16fb308f35cdbf8d46dc311",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B8_reduce_shuffle_delta4/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B8_reduce_shuffle_delta4/sassem_result.json",
+    "original_sha256": "33ea17c4c5370a82d719a8780e9d26c99cf6619886993ba415c7904cfd08883d",
+    "shared_sha256": "e5cb826118543c55f38a2224a0b25056d8834b6a5c7d1a1a3b244307157f4ce5",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B9_gemm_tiled_shared_offset_iter2/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/B9_gemm_tiled_shared_offset_iter2/sassem_result.json",
+    "original_sha256": "e40d65536b41a987f87b0a359da721c92b78e4f08e7f93a016a853f82f3b176e",
+    "shared_sha256": "7181e7b4c8a6135134208b3ea015f971066d7cebc1c4daa8d3ee309a9fb9afb5",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M1_vectoradd_global_load_offset/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M1_vectoradd_global_load_offset/sassem_result.json",
+    "original_sha256": "d1b8568a6c0dd7aa8378ca342d981a53dbe1e18001371687d94383b381efd06c",
+    "shared_sha256": "7aafc06a4d7578bfdffb1952cf1bc48c37dfffdba75edad1bcf8e96638112ac8",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M2_reduce_shuffle_delta/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M2_reduce_shuffle_delta/sassem_result.json",
+    "original_sha256": "ecb494fd2a12b6590d6f1f01a415965b0a55261b8030f51d3b75412e02671cfa",
+    "shared_sha256": "340d71a407dfe6120a666c213ef43755d68d0b11cd34d1d8d61a84803e4cd30f",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M3_gemm_naive_ffma_source/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M3_gemm_naive_ffma_source/sassem_result.json",
+    "original_sha256": "7e91eace8bb6d7d428bf28473ae48ebd8b30f9f2d6eb91fd638221199dcece52",
+    "shared_sha256": "be5409fe4dfa045bf49318fed9f66e20a64183e9c604d666b7737c27daee9d28",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M4_gemm_tiled_shared_offset/sassem_result.json",
+    "shared_file": "records/experiments/unified_evaluation_20261012/out/1791737261533442300/mutations/M4_gemm_tiled_shared_offset/sassem_result.json",
+    "original_sha256": "5a176a770f3291e35f6ebac4c35a107398745b9dafb167df1da544b5ecb175ce",
+    "shared_sha256": "6168db52b28e894b933543cedd6c84343549b3f5558e44a0cd3936267413dab1",
+    "transformation": "JSON formatting and host-path normalization only; numerical fields unchanged"
+  },
+  {
+    "archive_relative_source": "experiments/sync_reconvergence_20261012/out/scaling.csv",
+    "shared_file": "tables/scalability_medians.csv",
+    "original_sha256": "5a17fd675fcdf996fdc50fcb975e9811671e471d60fc9c690f91f81e3017b696",
+    "shared_sha256": "00e471c1c1182e7e0750f2411c7043e684f955f84b022844a757afc589205863",
+    "transformation": "UTF-8 CSV; values preserved, host paths normalized if present"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/ablation.csv",
+    "shared_file": "tables/ablation.csv",
+    "original_sha256": "8449b2cfadcd2ffa975815f19c01f1b6ee6d8fd160e73afcf6834b31938b363b",
+    "shared_sha256": "fca965db47016527fa4eae1ae6cf6cf5d865ee25a7ecfa8a369295e9b8abf289",
+    "transformation": "UTF-8 CSV; values preserved, host paths normalized if present"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/functional_paths.csv",
+    "shared_file": "tables/functional_paths.csv",
+    "original_sha256": "ac67e135b424db88b2a72577b50d271f4f8cccda0a2767e220721c77d1974b49",
+    "shared_sha256": "119bd0e397d325e23dce7b717b8dd3d6a44f4526c7aef9f2b2aa2a0c9f629023",
+    "transformation": "UTF-8 CSV; values preserved, host paths normalized if present"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/reconstruction_metrics.csv",
+    "shared_file": "tables/reconstruction_metrics.csv",
+    "original_sha256": "f5e68e134a38d13038622a6a9d2068d4a431e4fbffc36db286b60a8a17755759",
+    "shared_sha256": "20bb7952b6dc900574a07580371ec388afc8def4ae88bfbaae3f5f7abe04a508",
+    "transformation": "UTF-8 CSV; values preserved, host paths normalized if present"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/gpu_batches.csv",
+    "shared_file": "tables/gpu_batches.csv",
+    "original_sha256": "14b34190822ea2211ddf89dd9c9521a324abc48316d5d160ecbd2dd23ec910f1",
+    "shared_sha256": "61a438831063382300764e0fc3a44a205f3ce898a62e6e2b94c564827f6706ff",
+    "transformation": "UTF-8 CSV; values preserved, host paths normalized if present"
+  },
+  {
+    "archive_relative_source": "artifacts/experiment_audit_20261014/final_binary_mutations.csv",
+    "shared_file": "tables/final_binary_mutations.csv",
+    "original_sha256": "43b3ed684e0629b929bf3eaa32a6e0b4c84f24159b9ed54a0f0ee31c93c33648",
+    "shared_sha256": "ecd784c677c54cef48653a7c8e644e87a492aed1a94e3e764925d86c460a11e2",
+    "transformation": "UTF-8 CSV; values preserved, host paths normalized if present"
+  }
+]

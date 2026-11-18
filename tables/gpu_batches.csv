@@ -1,0 +1,16 @@
+batch,launches,comparisons,mismatches,tolerance,scope,source
+Ampere general,44,1760,0,original recorded per-case tolerance,all registered outputs,experiments/paper_completion/out/gpu_tablex/gpu_results.json
+Ampere Attention,6,48,0,original recorded tolerance,all registered outputs,experiments/review_20260920/attention_followup/runs/20260920_110532/results.json
+Ampere layout,26,418,0,original recorded tolerance,all registered outputs,experiments/paper_strengthening_20261003/revision_lds64/out/hardware_summary.json
+Ampere external entries,30,1092,0,2e-4 + 2e-4*abs(reference),all registered outputs,experiments/paper_strengthening_20261003/evidence_closure/out/hardware_summary.json
+Ampere holdout_matmul4,6,1536,0,2e-4 + 2e-4*abs(reference),all registered outputs,experiments/paper_gap_closure_20261004/out/hardware/20261004_051615_497100/downloaded/gpu_results/rows.json
+Ampere holdout_matmul5,6,1536,0,2e-4 + 2e-4*abs(reference),all registered outputs,experiments/paper_gap_closure_20261004/out/hardware/20261004_051615_497100/downloaded/gpu_results/rows.json
+Ampere TF32 development,60,7680,0,1e-5 + 1e-5*abs(reference),all registered outputs,experiments/semantic_extension_20261008/out/summary.json
+Ampere llm.c LayerNorm,30,846,0,1e-4 + 1e-4*abs(reference),"129 primary + 12 auxiliary symbolic outputs, each six inputs",experiments/semantic_extension_20261008/out/summary.json
+Ampere external WMMA,30,21504,0,1e-5 + 1e-5*abs(reference),all registered outputs,experiments/external_tensorcore_20261009/out/final_report.json ; experiments/tensorcore_replay_20261009/out/final_report.json
+Ampere cross-warp MMA,12,1536,0,1e-5 + 1e-5*abs(reference),all registered outputs,experiments/tensorcore_replay_20261009/out/final_report.json
+Ampere scaling,24,57048,0,2e-4 + 2e-4*abs(reference),57024 primary + 24 FA auxiliary comparisons,experiments/scaling_closure_20261010/out/final_results.json
+Ampere original TF32,6,98304,0,original recorded tolerance,"first CTA0 128x128 tile only, three inputs per entry",experiments/tensorcore_live_tile_20261013/out/hardware_replay_summary.json
+Ada frozen_sm80,18,592,0,original recorded tolerance,five algorithms; same source/flags comparison,experiments/review_followup_20261003/runs/server_20261003/gpu_run/summary.json
+Ada rebuilt_sm80,18,592,0,original recorded tolerance,five algorithms; same source/flags comparison,experiments/review_followup_20261003/runs/server_20261003/gpu_run/summary.json
+Ada native_sm89,18,592,0,original recorded tolerance,five algorithms; same source/flags comparison,experiments/review_followup_20261003/runs/server_20261003/gpu_run/summary.json
